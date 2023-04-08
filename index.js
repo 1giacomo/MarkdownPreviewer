@@ -15,7 +15,7 @@ function App() {
                 id="text"
                 rows="10"
                 value={text}
-                onChange={(e) => setText (e. target. value)}
+                onChange={(e) => setText (e.target.value)}
                 className="textarea"
             ></textarea>
             <h3 className="mt-3">Output</h3>
