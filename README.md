@@ -1,6 +1,8 @@
 # Markdown Preview Site
 This is a raw Markdown Previewer created for the [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer) course.
 
+You can visit the site by [this link](https://1giacomo.github.io/MarkdownPreviewer/).
+
 ## Overview
 This site allows users to preview their Markdown text in real-time as they type.
 
